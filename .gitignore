@@ -1,0 +1,10 @@
+*.pyc
+.ipynb_checkpoints/
+raw/
+runs/
+tmp_logs/
+*.egg-info/
+*.pt 
+!equivariant_nn_for_indirect_measurements/data/affine_transforms_*
+experiments/local
+tests/
